@@ -29,3 +29,8 @@ https://blog.csdn.net/where_is_horse/article/details/80099124
 https://blog.csdn.net/qq_36165459/article/details/78332172   
 
 
+
+
+
+### 用 Python+openpose 实现抖音尬舞机   
+https://segmentfault.com/a/1190000016976210    
