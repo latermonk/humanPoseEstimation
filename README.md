@@ -2,6 +2,7 @@
 
 ##  头部朝向及人体朝向分析
 
+https://blog.csdn.net/chenyuping333/article/details/82901638#2、3D人体姿态估计
 
 https://zhuanlan.zhihu.com/p/38597956
 
