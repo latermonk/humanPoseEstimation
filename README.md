@@ -17,3 +17,7 @@ https://ai.baidu.com/docs#/Body-API/top
 
 https://zhuanlan.zhihu.com/p/37526892      
 
+
+
+# Openface人脸朝向和注意力检测
+https://blog.csdn.net/where_is_horse/article/details/80099124     
