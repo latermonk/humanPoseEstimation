@@ -22,3 +22,10 @@ https://zhuanlan.zhihu.com/p/37526892
 
 # Openface人脸朝向和注意力检测
 https://blog.csdn.net/where_is_horse/article/details/80099124     
+
+
+
+##  人体姿态估计数据集    
+https://blog.csdn.net/qq_36165459/article/details/78332172   
+
+
