@@ -20,6 +20,12 @@ https://ai.baidu.com/docs#/Body-API/top
 
 
 ## OpenPose 
+## donwlaod windows release
+## quick start   
+https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/v1.5.0/doc/quick_start.md       
+
+
+
 
 https://zhuanlan.zhihu.com/p/37526892      
 
